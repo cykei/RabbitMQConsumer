@@ -7,7 +7,7 @@ import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;
 
 
-@Component
+//@Component
 public class SampleListener {
 
     private static final Logger log = LoggerFactory.getLogger(SampleListener.class);
